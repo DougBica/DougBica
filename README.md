@@ -4,6 +4,7 @@
 Currently improving my **English** and taking courses on **Pluralsight**.  
 Passionate about clean code, problem solving, and continuous learning.  
 
+
 ---
 
 ### 🛠️ Tech Stack
@@ -25,7 +26,8 @@ Passionate about clean code, problem solving, and continuous learning.
 ###  Current Goals
 - Improve my English  
 - Explore more about **Spring Boot & modern Java**  
-- Keep learning on **Pluralsight**  
+- Keep learning on **Pluralsight**
+- This repository serves as a place to keep my notes, studies, and projects.
 
 ---
 

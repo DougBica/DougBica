@@ -1,11 +1,33 @@
-Software Developer with 6+ years of experience building applications with Java and React.
-Currently studying English and sharpening my skills through Pluralsight courses.
-Always learning and exploring new technologies.
+# Hi there, I'm Douglas 👋  
 
+**Software Developer** with 6+ years of experience working with **Java** and **React**.  
+Currently improving my **English** and taking courses on **Pluralsight**.  
+Passionate about clean code, problem solving, and continuous learning.  
 
+---
 
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, TypeScript  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Spring Boot, REST APIs  
+- **Database:** SQL Server
+- **Tools:** Git, Docker, IntelliJ, VS Code  
 
+---
 
+### 📊 GitHub Stats
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-How to reach me: send a message or send e-mail to dougbrasil.bica@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
+---
+
+###  Current Goals
+- Improve my English  
+- Explore more about **Spring Boot & modern Java**  
+- Keep learning on **Pluralsight**  
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  

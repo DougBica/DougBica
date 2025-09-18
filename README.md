@@ -16,9 +16,9 @@ Passionate about clean code, problem solving, and continuous learning.
 ---
 
 ### 📊 GitHub Stats
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DougBica&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougBica&layout=compact&theme=tokyonight)
 
 ---
 
@@ -30,4 +30,4 @@ Passionate about clean code, problem solving, and continuous learning.
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-augusto-barcelos-bica-909626a7/)  
